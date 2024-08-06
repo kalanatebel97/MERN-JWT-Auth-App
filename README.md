@@ -22,7 +22,6 @@ This project is a starter application for a MERN (MongoDB, Express, React, Node.
 ### Environment Variables
 
 Rename the `.env.example` file to `.env` and configure the following variables:
-
 ```
 NODE_ENV=development
 PORT=5000
